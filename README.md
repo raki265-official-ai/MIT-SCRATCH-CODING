@@ -7,6 +7,6 @@ simple animation motions and objects
 # ⚙️Tools used 
 💠scratch (https://scratch.mit.edu)
 # 🕹️how to run
-open scrach app to create (".sb3") file and upload file
-
+open scrach app to create and add features and objects and run the programme and save to folder ".sb3"
+file
 
